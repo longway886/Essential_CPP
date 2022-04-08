@@ -1,0 +1,8 @@
+P205 附录A
+P255 附录B
+
+01	什么是类？
+	类是用户自定义的数据类型（user-defined data type) 增强程序内之类型抽象化层次
+	class分为两部分
+	（1）头文件	(header file)——用来声明该class的各种操作行为
+	（2）代码文件 (program text)——包含这些操作行为的实现内容
