@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\Chapt1",
-    "\\Chapt2"
+    "\\Chapt2",
+    "\\Cpp",
+    "\\Cpp\\Cpp"
   ],
-  "SelectedNode": "\\Chapt2\\面向过程的编程风格.txt",
+  "SelectedNode": "\\Cpp\\Cpp\\Cpp_01.cpp",
   "PreviewInSolutionExplorer": false
 }
